@@ -157,7 +157,7 @@ nav{
     display: block;
     aspect-ratio: 1;
     width: 14px;
-    background: url(../assets/down-arrow.svg);
+    background: url(assets/down-arrow.svg);
 }
 
 .visited {
@@ -175,7 +175,7 @@ nav{
 
 
 .target {
-    background: url(../assets/end.svg);
+    background: url(assets/end.svg);
 }
 
 .path {
@@ -183,7 +183,7 @@ nav{
 }
 
 .source {
-    background: url(../assets/start.svg);
+    background: url(assets/start.svg);
 }
 
 
